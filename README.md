@@ -1,3 +1,3 @@
 # My-Star-IA (Em desenvolvimento)
-Site para vendas de dispositivos tecnológicos.
+E-commerce de dispositivos tecnológicos.
 
