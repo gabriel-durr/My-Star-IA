@@ -1,3 +1,1 @@
-# My-Star-IA (Em desenvolvimento)
-E-commerce de dispositivos tecnológicos.
-
+# My-Star-IA (In development) two E-commerce of technological devices.
